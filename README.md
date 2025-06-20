@@ -1,6 +1,6 @@
 # Geco Habit Tracker
 
-> Note: On first launch, if your terminal blocks standard input, the app will default to using "Guest" as the username to prevent crashing.
+> Note: On first launch, if your terminal blocks standard input, the app will automatically assign "Guest" as the username to prevent crashing.
 
 **Geco Habit Tracker** is a terminal-based Python application designed to help you build and maintain daily habits. \
 The system is built around the idea of "not breaking the chain", a method of daily consistency tracking.
